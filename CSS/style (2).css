@@ -1,0 +1,284 @@
+
+.main{
+	      margin:0;
+		  background-image:url(../Img/flower.jpg);
+		  line-height:26px;
+		  font-size:15px;
+         }
+.h{
+	    width:100%;
+    }
+.wrapper{
+	               width:85%;
+				     margin:auto;
+                }
+.wid{
+	   width: 130px;
+	   transition:3s;
+       }
+.center{
+	        text-align:center;
+			 margin-top:0px;
+			 margin-bottom:40px;
+			 	transition:3s;
+           }
+		   .dd{
+			    display:flex;
+		   }
+.type{
+	        list-style-type:none;
+			  display:flex;
+			  justify-content:center;
+			  text-transform:uppercase;
+			  font-size:13px;
+			    margin: 0;
+    padding: 0;
+         }
+.type a:hover{
+	     color:#3498db;
+}    
+.home{
+	  text-decoration:none;
+	  color:black;
+	  padding:22px;
+      letter-spacing:1px;
+			  
+			  }
+.up{
+	     text-transform:uppercase;
+      }
+.color{
+	          color:#606469;
+			  	letter-spacing:1px;
+				font-size:25px;
+          }
+.mar{
+	       color:#606469;
+		    margin-right:12px;
+			 margin-left:12px;
+        }
+.cl{
+	   color: #3498db;
+	   letter-spacing:1px;
+	    text-decoration:none;
+	    
+			
+    }
+.style{
+	        list-style-type:none;
+			  display:flex;
+			   justify-content:end;
+			   text-transform:uppercase;
+			   font-size:13px;
+			      margin: 0;
+    padding: 0;
+          }
+.back{
+		   display:flex;
+		   background-color:gray;
+    opacity: 1.00;
+         }
+.two{
+	  width:100%;
+}
+.above{
+	        padding:70px 0 60px;
+}
+.decor{
+	     text-decoration:none;
+	     letter-spacing:1px;
+			color: #606469;
+}
+.tw img:hover{
+	           box-shadow:5px 5px 15px rgb(0 0 0/20%);
+}
+.bot{
+	  margin-bottom:22px;
+}
+.play{
+	     display:flex;
+		 justify-content:space-between;
+		 margin-bottom:80px;
+}
+.fif{
+	    width:49%;
+}
+.bank{
+	      margin:28px 0;
+		  font-size:30px;
+		  color:dark-green;
+		   }
+.ban{
+		margin-bottom:40px;
+    text-transform: uppercase;
+    margin-top:0;
+	  margin-bottom:0;
+	    margin-left:0;
+	   margin-right:30px;
+    line-height: 20px;
+}
+.font{
+	     font-size:14px;
+		 color:gray;
+}
+.fly h3:before{
+    content: '';
+    width: 2px;
+    height: 21px;
+    background:#3498db;
+    display: inline-block;
+    margin-right: 12px;
+    position: relative;
+    top: 3px;
+}
+.size{
+	    font-size:17.5px;
+		  color:dark-green;
+		  margin-bottom:32px;
+		   }
+.lov{
+	  margin-top:60px;
+}
+.gang{
+	      margin-right:15px;
+}
+.top{
+	   margin-top:60px;
+}
+.fly{
+	   width:35%;
+	   border:1px solid;
+	   padding:30px;
+	   margin-top:75px;
+}
+.five{
+	    width:85%;
+}
+.round{
+	        background-color:#3498db;
+			color:white;
+			font-size:13px;
+}
+.seven{
+	       width:70%;
+}
+.hand{
+	       width:100%;
+}
+.p{
+	       width:95%;
+}
+.teeh{
+	     width:30%;
+}
+.fav{
+	     width:5%;
+}
+.tw{
+	 width:16%;
+}
+.dis{
+	   display:flex;
+	   justify-content:space-between;
+	   margin:80px 0;
+}
+.count{
+	        display:flex;
+			  justify-content:center;
+			  margin-top:70px;
+			  margin-bottom:30px;
+}
+.z{
+	  font-size:12px;
+}
+.fifth{
+	      width:50%;
+}
+.ryt{
+	    margin-right:20px;
+}
+.name{
+	list-style-type:none;
+	      display:flex;
+		  justify-content:center;
+}
+.game{
+	    text-decoration:none;
+	    color:black;
+		padding:15px;
+}
+.cen{
+	    text-align:center;
+		  margin:0px;
+		  padding:0px;
+}
+
+.clr{
+	width:100%;
+	 background-color:gray;
+	 margin-bottom:15px;
+	 box-shadow:none;
+}
+.lx{
+	display:inline-block;
+	margin-left:20px;
+}
+.bat{
+	    margin-top:90px;
+		padding:36px;
+		background-color:gray;
+    }
+.ground{
+	   background-color:gray;
+	   padding:30px;
+}
+.copy{
+	    width:90%;
+}
+.wrap{
+	      width:92%;
+		  margin:auto;
+	      background-color:white;
+}
+.us{
+	    letter-spacing:3px;
+}
+.home-pd{
+	     padding-top:40px;
+}
+.relative:hover .absolute{
+	           display:block;
+}
+.relative{
+    position:relative;
+} 
+.absolute{
+	position:absolute;
+	top:42px;
+    display:none;
+    list-style-type:none;
+	background-color:#f3f4f4;
+	padding:13px;
+    width:142%;
+	border-top:3px solid  #3498db;
+	box-shadow: 0 1px 1px rgb(0 0 0 / 20%);
+	
+} 
+.list{
+	margin-bottom:20px;
+}
+.absolute:hover .li{
+	color:blue;
+}
+.line{
+	width:9%;
+	height:2px;
+	background-color:#3498db;
+	margin-top:30px;
+	margin-top:30px;
+	
+}
+.word{
+	   margin-left:20px;
+}
+	                    
